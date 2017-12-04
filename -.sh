@@ -1,0 +1,10 @@
+logs/*
+venv
+.cache
+*.pyc
+*.bak
+*.orig
+*.sql
+.idea
+.env
+.DS_Store
