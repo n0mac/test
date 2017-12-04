@@ -5,6 +5,6 @@ venv
 *.bak
 *.orig
 *.sql
-.idea
+.idea/
 .env
 .DS_Store
